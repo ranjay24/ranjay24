@@ -62,6 +62,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ranjay24&show_icons=true&theme=dark" height="170"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjay24&layout=compact&theme=dark" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjay24&theme=dark" alt="Streak Stats" />
 </p>
 
 ---
