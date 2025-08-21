@@ -78,5 +78,5 @@
 
 <p align="center">
   <a href="https://github.com/ranjay24"><img src="https://img.shields.io/badge/GitHub-ranjay24-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/ranjay-devendra-singh"><img src="https://img.shields.io/badge/LinkedIn-Ranjay-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/ranjaydevendrasingh24092002/"><img src="https://img.shields.io/badge/LinkedIn-Ranjay-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
